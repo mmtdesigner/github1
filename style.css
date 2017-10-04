@@ -46,3 +46,13 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+a {
+	color: #222;
+	border: solid 2px #222;
+	background: white;
+}
+a:hover {
+	text-decoration: none;
+	background: #222;
+	color: white;
+}
